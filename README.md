@@ -23,4 +23,4 @@ print('Keliling Lingkaran =', round(keliling,2))
 
 Dan ini adalah hasil output nya
 Saya menggunakan fungsi Round untuk membulatkan desimalnya.
-![screenshot output](screenshot/ss2.png)
+![screenshot output](screenshot/sss2.png)
