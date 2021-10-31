@@ -1,10 +1,3 @@
-# Luas-dan-Keliling-Lingkaran
-Program Mencari Luas dan Keliling Sebuah Lingkaran
-Iman Setiawan
-
-Ini adalah code pyhton saya
-Sangat sederhana
-~~~
 # Program Hitung Luas dan Keliling Lingkaran
 
 # Input Nilai
@@ -19,8 +12,4 @@ keliling = 2 * float(pi) * float(jari)
 # Output
 print('Luas Lingkaran =', round(luas,2))
 print('Keliling Lingkaran =', round(keliling,2))
-~~~
 
-Dan ini adalah hasil output nya
-Saya menggunakan fungsi Round untuk membulatkan desimalnya.
-![screenshot output](screenshot/ss2.png)
